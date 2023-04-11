@@ -22,3 +22,6 @@ Contributions are always welcome!
 Please adhere to this project's `code of conduct`.
 
 If you are interested in contributing to this project you can contact me at kin020@uit.no
+
+## Citation
+Van Ingen, K. (2023). Exam2—correct (Version 1.0). GitHub. https://github.com/korneliavi/Exam2--correct 
