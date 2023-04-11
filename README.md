@@ -2,7 +2,7 @@
 
 In this repository you will find my project for PSY-3035 Programming and Data Visualization for Researchers at the Department of Psychology at UiT The Arctic University of Norway. 
 
-My project contain data from my family´s own Netflix account downloaded via our private account. The purpose of the project was mainly to learn how to code and vizualise data, and I wanted to look at my family´s Netflix account and identicate our TV habits. 
+My project contain data from my family´s own Netflix account downloaded via our private account. The purpose of the project was mainly to learn how to code and vizualise data, and I wanted to look at my family´s Netflix account and identify our TV habits. 
 
 
 
